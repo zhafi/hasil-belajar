@@ -1,0 +1,14 @@
+body{
+font-family: 'Montserrat', sans-serif;
+
+}
+
+.carousel{
+	width: 50%;
+	margin-left: 25%;
+}
+
+.card{
+		border-radius: 15px;
+}
+
